@@ -1,91 +1,49 @@
-<!---
-victortking-procoder/victortking-procoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!-- Profile Header -->
-<h1 align="center">Hi there, I'm Victor Fredrick</h1>
-<p align="center">
-  <strong>Backend Developer | Django Enthusiast | Freelance-Ready</strong><br>
-  <em>Crafting web apps that solve real problems: Ecommerce, Reservation Systems, Blogs</em>
-</p>
+# 👋 Hey there, I’m Victor Fredrick
+
+**Backend Developer • Django Specialist • Builder of Real-World Apps**
+
+I build backend systems and APIs that scale — from e-commerce to booking platforms, blogs, and more. I write clean, testable Python code with a focus on maintainability, performance, and real-user impact.
 
 ---
 
-<!-- About Me Section -->
-### About Me
+## 🚀 About Me
 
-- Backend developer in training at **ALX SE Program**
-- Focused on building real-world Django applications
-- Currently sharpening skills in:
-  - Django REST Framework
-  - PostgreSQL & Celery
-  - Testing & Deployment
-- Passionate about clean code, system thinking, and self-learning
+- 🎓 Completed intensive backend training with a focus on Python & Django.
+- 🛠️ Passionate about backend architecture, REST APIs, caching, task queues, message brokers (Redis & Celery).
+- 📈 Strong understanding of PostgreSQL, service design, deployment workflows, and version control.
+- 💡 Believer in continuous learning — always sharpening skills in testing, CI/CD, and robust system design.
 
 ---
 
-<!-- Tech Stack Section -->
-### 🛠️ Tech Stack
+## 🧠 Tech Stack
 
-<table>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>Python, SQL, Bash</td>
-  </tr>
-  <tr>
-    <td><strong>Frameworks</strong></td>
-    <td>Django, Django REST Framework, Celery</td>
-  </tr>
-  <tr>
-    <td><strong>Tools</strong></td>
-    <td>Git, GitHub, Docker, Postman, Redis</td>
-  </tr>
-  <tr>
-    <td><strong>Currently Learning</strong></td>
-    <td>Testing (Pytest), CI/CD, Stripe API</td>
-  </tr>
-</table>
+**Languages:** Python, SQL, Bash  
+**Frameworks & Libraries:** Django, Django REST Framework, Celery  
+**Databases & Caching:** PostgreSQL, Redis  
+**Dev Tools:** Docker, Git, GitHub, Postman  
+**Learning:** Pytest, CI/CD (GitHub Actions / Render / AWS)
 
 ---
 
-<!-- Projects Section -->
-### 🚀 Featured Projects (Coming Soon)
+## 🚧 Key Projects
 
-- **Ecommerce MVP**  
-  <em>Product listings, cart, checkout, and Stripe test integration</em>  
-  _Repo coming soon_
+Here are some projects that show both **depth and real-world applicability**:
 
-- **Reservation System MVP**  
-  <em>Time slot booking with admin controls and email confirmation</em>  
-  _Repo coming soon_
+### 🧰 OpusTools (Media Utilities)
+An extensible media/document utility toolbox for:
+- Image compression & conversion
+- Bulk file operations
+👉 https://github.com/victortking-procoder/opustools
 
-- **Blog Platform**  
-  <em>Markdown support, user login, admin post management</em>  
-  _Repo coming soon_
+> More details and live demos coming soon 🚀
 
 ---
 
-<!-- Stats Section -->
-### 📊 GitHub Stats
+## ✉️ Let’s Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victortking-procoder&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victortking-procoder&theme=default" alt="GitHub Streak">
-</p>
+- 🔗 LinkedIn: https://www.linkedin.com/in/victor-fredrick  
+- 📨 Email: fredrickvictor01@outlook.com
 
 ---
 
-<!-- Connect Section -->
-### Let's Connect
-
-- LinkedIn: [Victor Fredrick](https://www.linkedin.com/in/victor-fredrick)
-- Blog: _Coming Soon_
-- Email: [fredrickvictor01@outlook.com](mailto:fredrickvictor01@outlook.com)
-
----
-
-<!-- Footer -->
-<p align="center">
-  <em>“Learn consistently. Build intentionally. Share openly.”</em>
-</p>
+> *“Build things that matter, and let the work speak.”*
