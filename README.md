@@ -42,7 +42,7 @@ An extensible media/document utility toolbox for:
 ## ✉️ Let’s Connect
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/victor-fredrick  
-- 📨 Email: fredrickvictor01@outlook.com
+- 📨 Email: fredrickvictor01@gmal.com
 
 ---
 
